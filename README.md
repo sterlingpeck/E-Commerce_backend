@@ -1,6 +1,6 @@
 # E-Commerce Backend
 
-https://github.com/sterlingpeck/E-Commerce Backend
+https://github.com/sterlingpeck/E-Commerce_Backend
 
 # Description
 
