@@ -6,10 +6,14 @@ https://github.com/sterlingpeck/E-Commerce_Backend
 
 Provides backend functionality for e-commerce website.
 
+# Screenshot
+
+![Screenshot](./assets/images/2022-06-06%2015_34_09-Insomnia.png)
+
 # Table of Contents
 
-- [Built With](# Built With)
-  None
+- [Built With](#Built With)
+
 - [Usage](#usage)
   N/A
 - [License](#license)
